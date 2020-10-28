@@ -14,7 +14,7 @@ Show = input("Name of a TV Show:")
 List = item_1, item_2, item_3
 
 print("One day, I was out on the town to get some " + food + ".")
-print("When I was about to chow down, a " + color_1 + animal_1 + " ran right across my plate.")
+print("When I was about to chow down, a " + color_1 + " " + animal_1 + " ran right across my plate.")
 print("I lost my appetite and would just go to the " + color_2 + " " + building + "to pick up" + item_1 + ", " + item_2)
 print("and a " + item_3 + ". The items cost $" + item_cost_1 + ", " + item_cost_2 + ", and " + item_cost_3)
 print("for a total of $" + str(Total) + ". After picking up " + str(List) + ", I went home to watch " + Show + ".")
